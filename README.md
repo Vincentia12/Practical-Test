@@ -6,7 +6,9 @@ Installation & Requirements
 
 2. Git Clone the Project
 
-3. Import database ke dalam PHPMyAdmin
+3. Hidupkan XAMPP
 
-4. Jalankan program
+4. Import database ke dalam PHPMyAdmin
+
+5. Jalankan program
    
